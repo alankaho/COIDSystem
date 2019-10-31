@@ -9,3 +9,8 @@ C:\Users\HaPi\source\repos\COID_System\COID_System\obj\Debug\COID_System.exe
 C:\Users\HaPi\source\repos\COID_System\COID_System\obj\Debug\COID_System.pdb
 C:\Users\HaPi\source\repos\COID_System\COID_System\obj\Debug\COID_System.ComboForm.resources
 C:\Users\HaPi\source\repos\COID_System\COID_System\obj\Debug\COID_System.FoodForm.resources
+C:\Users\HaPi\source\repos\COID_System\COID_System\bin\Debug\BasselTech CamCapture.dll
+C:\Users\HaPi\source\repos\COID_System\COID_System\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\HaPi\source\repos\COID_System\COID_System\obj\Debug\COID_System.QRGenerator.resources
+C:\Users\HaPi\source\repos\COID_System\COID_System\obj\Debug\COID_System.QRScanner.resources
+C:\Users\HaPi\source\repos\COID_System\COID_System\obj\Debug\COID_System.csproj.CopyComplete

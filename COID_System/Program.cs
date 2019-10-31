@@ -16,7 +16,7 @@ namespace COID_System
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ComboForm());
+            Application.Run(new QRGenerator());
         }
     }
 }
