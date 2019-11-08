@@ -1,0 +1,161 @@
+#ShipBox59 .ship_name {
+color: transparent;
+text-shadow:none !important;
+}
+#ShipBox59 .ship_name:before {
+content: "Goddess of victory";
+color: #FE4D4D;
+text-shadow:rgba(0, 1, 4, 0.5) -1px -1px 1px, rgba(0, 1, 4, 0.5) 0px -1px 1px, rgba(0, 1, 4, 0.5) 1px -1px 1px, rgba(0, 1, 4, 0.5) -1px 0px 1px, rgba(0, 1, 4, 0.5) 1px 0px 1px, rgba(0, 1, 4, 0.5) -1px 1px 1px, rgba(0, 1, 4, 0.5) 0px 1px 1px, rgba(0, 1, 4, 0.5) 1px 1px 1px;
+}
+
+#ShipBox146 .ship_name {
+color: transparent;
+text-shadow:none !important;
+}
+#ShipBox146 .ship_name:before {
+content: "Turkey";
+color: #FEA3BF;
+text-shadow:rgba(0, 1, 4, 0.5) -1px -1px 1px, rgba(0, 1, 4, 0.5) 0px -1px 1px, rgba(0, 1, 4, 0.5) 1px -1px 1px, rgba(0, 1, 4, 0.5) -1px 0px 1px, rgba(0, 1, 4, 0.5) 1px 0px 1px, rgba(0, 1, 4, 0.5) -1px 1px 1px, rgba(0, 1, 4, 0.5) 0px 1px 1px, rgba(0, 1, 4, 0.5) 1px 1px 1px;
+}
+#ShipBox146 .ship_img img{
+content:url("https://i.imgur.com/XcVgv9x.png");
+}
+
+#ShipBox6857 .ship_name {
+color: transparent;
+text-shadow:none !important;
+}
+#ShipBox6857 .ship_name:before {
+content: "White crane";
+color: #FEA3BF;
+text-shadow:rgba(0, 1, 4, 0.5) -1px -1px 1px, rgba(0, 1, 4, 0.5) 0px -1px 1px, rgba(0, 1, 4, 0.5) 1px -1px 1px, rgba(0, 1, 4, 0.5) -1px 0px 1px, rgba(0, 1, 4, 0.5) 1px 0px 1px, rgba(0, 1, 4, 0.5) -1px 1px 1px, rgba(0, 1, 4, 0.5) 0px 1px 1px, rgba(0, 1, 4, 0.5) 1px 1px 1px;
+}
+#ShipBox6857 .ship_img img{
+content:url("https://i.imgur.com/xz3MR95.png");
+}
+
+#ShipBox17608 .ship_name {
+color: transparent;
+text-shadow:none !important;
+}
+#ShipBox17608 .ship_name:before {
+content: "Trash";
+color: #955C05;
+text-shadow:rgba(0, 1, 4, 0.5) -1px -1px 1px, rgba(0, 1, 4, 0.5) 0px -1px 1px, rgba(0, 1, 4, 0.5) 1px -1px 1px, rgba(0, 1, 4, 0.5) -1px 0px 1px, rgba(0, 1, 4, 0.5) 1px 0px 1px, rgba(0, 1, 4, 0.5) -1px 1px 1px, rgba(0, 1, 4, 0.5) 0px 1px 1px, rgba(0, 1, 4, 0.5) 1px 1px 1px;
+}
+#ShipBox17608 .ship_img img{
+content:url("https://p.globalsources.com/IMAGES/PDT/BIG/222/B1085557222.jpg");
+}
+#ShipBox17608 .ship_type {
+color: transparent;
+}
+#ShipBox17608 .ship_type:before {
+content: "MVP";
+color: #955C05;
+}
+
+
+#ShipBox332 .ship_name {
+color: transparent;
+text-shadow:none !important;
+}
+#ShipBox332 .ship_name:before {
+content: "Sea Valkyrie";
+color: #419dff;
+text-shadow:rgba(0, 1, 4, 0.5) -1px -1px 1px, rgba(0, 1, 4, 0.5) 0px -1px 1px, rgba(0, 1, 4, 0.5) 1px -1px 1px, rgba(0, 1, 4, 0.5) -1px 0px 1px, rgba(0, 1, 4, 0.5) 1px 0px 1px, rgba(0, 1, 4, 0.5) -1px 1px 1px, rgba(0, 1, 4, 0.5) 0px 1px 1px, rgba(0, 1, 4, 0.5) 1px 1px 1px;
+}
+#ShipBox332 .ship_img img{
+content:url("https://i.imgur.com/xipSGSX.png");
+}
+/*poi*/
+#ShipBox9 .ship_img img{
+content:url("https://i.imgur.com/hWRDb3X.png");
+}
+
+
+
+.module.quests .quest {
+  background: rgba(100, 100, 100, 0.25);
+}
+
+
+
+
+
+
+.repairs .timer-img {
+background:rgba(0, 255, 104, 0.2);
+border:1px solid rgba(225, 252, 225, 0.5);
+}
+.builds .timer-img {
+background:rgba(213, 119, 0, 0.2);
+border:1px solid rgba(225, 252, 225, 0.5);
+}
+
+.module.fleet .shiplist .hp_taiha{
+background-color:rgba(255, 42, 62, 0.5) ;
+animation:none ;
+}
+
+.module.fleet .lship .ship_gear.equipped .ship_gear_icon {
+	background:#0f1413;
+}
+
+.module.fleet .lship .ship_hp_box {
+background:#5555554d;
+}
+
+.module.quests .quest.complete {
+background:rgba(255, 255, 0, 0.2);
+}
+
+.module.fleet .lship .shipname {
+color: #fff;
+}
+
+
+.module.activity .activity_expeditionPlanner .dropdown_title.expPlanner_text_failed {
+background-image:none !important;
+}
+
+.module.activity .consumable_ltext.regenCap {
+color:#dcff58;
+}
+
+
+.module.controls .fleet_num.onExped {
+background:rgba(28, 103, 252, 0.87);
+}
+
+.module.fleet .lship .ship_supply_text{
+color:#fff;
+}
+
+/* morale */
+.module.fleet .lship .ship_morale {
+width:27px !important;
+height:19px !important;
+line-height:19px !important;
+font-size:15px !important;
+margin: -4px 0 2px !important;
+box-shadow: -3px 4px 7px rgba(255, 255, 255,0) inset, 0 10px 7px rgba(255, 255, 255,0) inset;
+}
+
+.module.fleet .lship .ship_gear.equipped .ship_gear_icon {
+background:#ffffff;
+}
+
+.module.activity .consumable_ltext.hardCap, .module.activity .consumable_text.danger {
+color:#000000fa;
+}
+
+
+/* square icon */
+.module.fleet .lship .ship_img img{
+border-radius:0%;
+}
+
+.module.fleet .lship .ship_img{
+border-radius:0%;
+}
+
